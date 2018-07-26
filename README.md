@@ -3,7 +3,7 @@
   <p align="center">
     这里需要一句口号，振聋发聩的那种
   <br />
-  <a href='http://bnb48.club/whitepaper/'>我要贡献 »</a>
+  <a href='https://github.com/BNB48Club/whitepaper'>我要贡献 »</a>
   </p>
 </p>
 
