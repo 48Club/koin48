@@ -1,0 +1,54 @@
+Terminology
+
+Virtual Blockchain - The virtual blockchain that only exist on Telegram
+Virtual Coin ("Koin48") - the coin that resides in telegram only, name is subject to change
+Physical Token ("Token") - The Ether token that resides on ether network, which is a reflection of the virtual chain
+BNB48 Group ("Community")
+BNB48 Group Member ("Member")
+
+
+
+
+Virtual Blockchain
+	- Participation in the community is considered "Mining"
+	- One Block is created and mined every 10 Minutes
+	- Total “Koin48” creation in every 100,000 minutes is 19,100
+		- 14,100 reward to miner
+		- 5,000 reward to a distribution wallet
+	- A public fund wallet that keeps all fees charged (usage of this wallet is unknown)
+	- Auto-adjust difficulty to keep 80% mining rate
+	- Each miner has a chance per block to receive the reward
+	- Reward also includes half of the transaction fees accumulated up to this point
+	- The other half of accumulated fees goes into public fund wallet
+	- Additional 0.5 “Koin48” is sent to the distribution wallet
+	- Un-mined block goes into the bench holder
+	- If there is no bench holder, the block is lost
+
+
+Telegram to Ether Network
+	- "Koin48" is initially acquired on the virtual blockchain
+	- User may bind telegram id into an ether wallet address
+	- A central gateway ("Gateway") connects the virtual blockchain and Ether Network
+	- User has the ability to withdraw "Koin48" into Ether Network
+	- Upon withdraw, the "Koin48" left on virtual Network becomes "Locked" and thus not transferable
+	- Upon withdraw, "Gateway" will transfer "Token" from the Creation Wallet into "Member" wallet
+	- “Token” in “Member” wallet is transferable.  
+	- Periodically (TBD), "Gateway" will take snapshot on the Ether Network to update locked "Koin48" on virtual blockchain
+	- Rights within telegram community align with total “Virtual Coin” owned
+	- Rights on the physical network align with total “Token” owned.
+
+Distribution
+	- “Token” starts with a Creation Wallet
+	- Only “Token” outside of creation wallet bear rights
+	- "Token" tracks wallet balance of each "Member" (physical only)
+	- Third party tokens can be dropped into the "Token" address
+	- "Token" may start a distribution period, and a snapshot is taken
+	- During distribution Period, each member may send 0 "Token" into the "Token" address to receive the distribution, proportionally to the snapshot
+
+Issues to consider
+	- "Token" is associated with an admin wallet (Internal Control required)
+	- A voting system is required to set the admin wallet for "Token"
+	- Consider multiple admin wallets?
+	- Member who lose private key to Ether wallet
+	- Member who lose Access to Telegram account
+	
