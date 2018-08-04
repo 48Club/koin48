@@ -9,6 +9,9 @@ BNB48 Group Member ("Member")
 
 
 
+
+
+
 Virtual Blockchain
 	- Participation in the community is considered "Mining"
 	- One Block is created and mined every 10 Minutes
