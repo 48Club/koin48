@@ -1,0 +1,5 @@
+id=1001|count=3|price=40|
+id=1002|count=500|price=0.1|
+id=1003|count=45|price=1|
+id=1004|count=10|price=3|
+id=1005|count=10|price=10000|
