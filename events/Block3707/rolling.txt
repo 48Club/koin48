@@ -1,0 +1,7 @@
+#name: name of the table
+#rates: roll 1000-sided dice, value=result,reward,count....repeat....
+name=shitcoin|rates=1,1013,1,5,1004,1,20,1003,1,80,1012,1
+name=eventone|rates=10,1013,1,50,1004,1,200,1003,1,800,1012,1
+name=eventtwo|rates=10,1013,2,50,1004,2,200,1003,2,800,1012,2
+name=eventthree|rates=10,1013,1,50,1004,1,200,1003,1
+name=eventfour|rates=1000,2007,1
