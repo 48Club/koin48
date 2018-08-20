@@ -1,14 +1,18 @@
 <p>
   <h3 align="center">Koin48</h3>
   <p align="center">
-    BNB48 Club&reg; 及周边社区活跃度的具象化Token——Koin48
+    BNB48 Club&reg;
   <br />
-  <a href='https://github.com/BNB48Club/koin48'>Contribute »</a>
+  <a href='https://github.com/BNB48Club/koin48'>Github »</a>
   </p>
 </p>
 
 ## 项目背景
-由*Ian*提起聊天即挖矿，由*千年韭菜*丰富细节并开发初版在BNB48主群上线。
+Koin48源自BNB48&reg;俱乐部
+
+俱乐部群内原有俱乐部成员*千年韭菜*开发的智能聊天机器人系统，除了常见的人工智能聊天功能外，该机器人会统计成员的发言频率和内容，映射成为各种不同的虚拟的头衔和等级。例如『穷鬼』头衔的提升方法为在聊天中提到“没钱”、“穷”等字样，『波奶修真』等级的提升方法为每天在群内有发言。
+
+后来由俱乐部成员*Ian*提出将『波奶修真』头衔等级改为虚拟的XX币，*千年韭菜*对这个想法做了进一步的改进，增加了由丰富细节并开发初版在BNB48主群上线。
 
 初始名称为BNB48Coin，后考虑到未来拓展到各个社区的可能性，淡化了BNB48的品牌名称，改为Koin48。
 
